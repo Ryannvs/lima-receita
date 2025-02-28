@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,ol,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    color: rgb(150,75,0);
+      text-align: center;
+    font-size: 100px;
+      background-color: beige;
+  }
+  .img{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+      
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  ul{
+    list-style: none;
+    margin-left: 0;
+   
+    
+  }
+  
+  main{
+    width: 1000px;
+    margin: auto;
+    
+    
+  }
+  
